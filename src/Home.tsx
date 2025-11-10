@@ -2,8 +2,6 @@ import tableViewIcon from "@ui5/webcomponents-icons/dist/table-view.js";
 import listIcon from "@ui5/webcomponents-icons/dist/list.js";
 import lineChartIcon from "@ui5/webcomponents-icons/dist/line-chart.js";
 import barChartIcon from "@ui5/webcomponents-icons/dist/horizontal-bar-chart.js";
-import "@sap-ui/common-css/dist/sap-content-paddings.css";
-import "@sap-ui/common-css/dist/sap-container-type.css";
 import { MyCustomElement } from "./MyCustomElement";
 
 import { useNavigate } from "react-router-dom";
